@@ -7,7 +7,7 @@
   var safeZone = 3000;
 
   window.setInterval(function() {
-    if (document.body === undefined) { return; }
+    if (document.body == null) { return; }
     var y = window.pageYOffset || document.scrollTop || document.body.scrollTop || 0;
     if (y >= lastPosition + safeZone) {
       alert("au boulot !");
