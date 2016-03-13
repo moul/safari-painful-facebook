@@ -1,5 +1,6 @@
 // ==UserScript==
 // @name           Painful Facebook
+// @author         Manfred Touron
 // @namespace      http://m.42.am/
 // @description    Facebook timeline + Pain = Productivity !
 // @include        https://www.facebook.com/*
