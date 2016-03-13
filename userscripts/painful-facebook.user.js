@@ -1,9 +1,12 @@
 // ==UserScript==
 // @name           Painful Facebook
+// @version        1
 // @author         Manfred Touron
 // @namespace      http://m.42.am/
 // @description    Facebook timeline + Pain = Productivity !
 // @include        https://www.facebook.com/*
+// @updateURL      https://raw.githubusercontent.com/moul/safari-painful-facebook/master/userscripts/painful-facebook.user.js
+// @downloadURL    https://raw.githubusercontent.com/moul/safari-painful-facebook/master/userscripts/painful-facebook.user.js
 // ==/UserScript==
 
 
